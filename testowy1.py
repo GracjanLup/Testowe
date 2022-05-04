@@ -10,3 +10,5 @@ slowo2 = input()
 print(porownaj(slowo1,slowo2))
 print
 slowo1.find(slowo2)
+
+print("tutaj wstawiam i testuje nową funkcję")
