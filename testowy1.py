@@ -3,6 +3,7 @@ def porownaj(slowo1,slowo2):
         return "słowa są takie same"
     else:
         return "slowa różnią się od siebie"
+
 print("podaj 1 slowo")
 slowo1 = input()
 print("podaj 2 slowo")
