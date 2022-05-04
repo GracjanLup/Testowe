@@ -3,9 +3,9 @@ def porownaj(slowo1,slowo2):
         return "słowa są takie same"
     else:
         return "slowa różnią się od siebie"
-print("podaj pierwsze slowo")
+print("podaj 1 slowo")
 slowo1 = input()
-print("podaj drugie slowo")
+print("podaj 2 slowo")
 slowo2 = input()
 print(porownaj(slowo1,slowo2))
 print
